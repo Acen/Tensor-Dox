@@ -26,3 +26,9 @@ has_children: true
 Allows subfolder support - sorts alphabetically.
 [https://discord.com/channels/617481815418077185/673326353243832349/695882685029285888](https://discord.com/channels/617481815418077185/673326353243832349/695882685029285888)
 
+
+
+### Has Buffs / Missing Buffs check type, chilod of Buff Check
+
+Added "Has Buffs" and "Missing Buffs" to make checking multiple buffs easier
+![example of Has Buffs / Missing Buffs](https://i.imgur.com/MHqFBZF.png)
