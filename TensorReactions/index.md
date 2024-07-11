@@ -21,3 +21,8 @@ has_children: true
 > You can now return (table)action, (number)targetID, (bool)ignoreWeaveRules, (bool)allowInterrupt (ignoreWeaveRules and allowInterrupt are optional) from your lua action or reaction, and assuming action is a valid ActionList action, reactions will use it's own override system.
 >
 > Note: If you choose to return an action from lua, make sure the “Lua Returns Action” box is checked!
+
+
+Allows subfolder support - sorts alphabetically.
+[https://discord.com/channels/617481815418077185/673326353243832349/695882685029285888](https://discord.com/channels/617481815418077185/673326353243832349/695882685029285888)
+
