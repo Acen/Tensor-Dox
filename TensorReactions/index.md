@@ -10,6 +10,6 @@ has_children: true
 ## tbc
 
 
-> Added new reaction variable that has the current reaction object for action/condition lua
+> Added new `reaction` variable that has the current reaction object for action/condition lua
 
-> Added reaction.reference that has the actual reaction stored, not just the current instance of it
+> Added `reaction.reference` that has the actual reaction stored, not just the current instance of it
